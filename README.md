@@ -1,2 +1,2 @@
-# shapeshifters
-The repo for node, npm, processing and twitterbots
+# Shapeshifters
+The repo for node, npm, processing and twitterbots.
